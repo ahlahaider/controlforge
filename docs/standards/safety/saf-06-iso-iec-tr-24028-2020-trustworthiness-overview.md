@@ -8,7 +8,7 @@
 - **Type:** ISO/IEC technical report
 
 ## Official Page Screenshot
-![Screenshot](../../../images/ISO_IEC_TR_2020_Trustworthiness_overview.jpeg)
+![Screenshot](./images/ISO_IEC_TR_2020_Trustworthiness_overview.jpeg)
 
 
 
